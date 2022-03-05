@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/lina_/Documents/Conestoga/Semester 3/Game Prog Data Structures/FinalProject/CatJumper/CatJumper/Content/fonts/highlightFont.spritefont</File>
+    <File>C:/Users/lina_/Documents/Conestoga/Semester 3/Game Prog Data Structures/FinalProject/CatJumper/CatJumper/Content/fonts/regularFont.spritefont</File>
+    <File>C:/Users/lina_/Documents/Conestoga/Semester 3/Game Prog Data Structures/FinalProject/CatJumper/CatJumper/Content/images/about.png</File>
+    <File>C:/Users/lina_/Documents/Conestoga/Semester 3/Game Prog Data Structures/FinalProject/CatJumper/CatJumper/Content/images/bamboo.png</File>
+    <File>C:/Users/lina_/Documents/Conestoga/Semester 3/Game Prog Data Structures/FinalProject/CatJumper/CatJumper/Content/images/deadForest.png</File>
+    <File>C:/Users/lina_/Documents/Conestoga/Semester 3/Game Prog Data Structures/FinalProject/CatJumper/CatJumper/Content/images/Death.png</File>
+    <File>C:/Users/lina_/Documents/Conestoga/Semester 3/Game Prog Data Structures/FinalProject/CatJumper/CatJumper/Content/images/desciption.png</File>
+    <File>C:/Users/lina_/Documents/Conestoga/Semester 3/Game Prog Data Structures/FinalProject/CatJumper/CatJumper/Content/images/EnemyWalk.png</File>
+    <File>C:/Users/lina_/Documents/Conestoga/Semester 3/Game Prog Data Structures/FinalProject/CatJumper/CatJumper/Content/images/fairy.png</File>
+    <File>C:/Users/lina_/Documents/Conestoga/Semester 3/Game Prog Data Structures/FinalProject/CatJumper/CatJumper/Content/images/heart.png</File>
+    <File>C:/Users/lina_/Documents/Conestoga/Semester 3/Game Prog Data Structures/FinalProject/CatJumper/CatJumper/Content/images/Hurt.png</File>
+    <File>C:/Users/lina_/Documents/Conestoga/Semester 3/Game Prog Data Structures/FinalProject/CatJumper/CatJumper/Content/images/Idle.png</File>
+    <File>C:/Users/lina_/Documents/Conestoga/Semester 3/Game Prog Data Structures/FinalProject/CatJumper/CatJumper/Content/images/road.png</File>
+    <File>C:/Users/lina_/Documents/Conestoga/Semester 3/Game Prog Data Structures/FinalProject/CatJumper/CatJumper/Content/images/spacebar.png</File>
+    <File>C:/Users/lina_/Documents/Conestoga/Semester 3/Game Prog Data Structures/FinalProject/CatJumper/CatJumper/Content/images/Special.png</File>
+    <File>C:/Users/lina_/Documents/Conestoga/Semester 3/Game Prog Data Structures/FinalProject/CatJumper/CatJumper/Content/images/Walk2.png</File>
+    <File>C:/Users/lina_/Documents/Conestoga/Semester 3/Game Prog Data Structures/FinalProject/CatJumper/CatJumper/Content/sound/catHowl.wav</File>
+    <File>C:/Users/lina_/Documents/Conestoga/Semester 3/Game Prog Data Structures/FinalProject/CatJumper/CatJumper/Content/sound/fairy.mp3</File>
+    <File>C:/Users/lina_/Documents/Conestoga/Semester 3/Game Prog Data Structures/FinalProject/CatJumper/CatJumper/Content/sound/horror.mp3</File>
+    <File>C:/Users/lina_/Documents/Conestoga/Semester 3/Game Prog Data Structures/FinalProject/CatJumper/CatJumper/Content/sound/piano.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
